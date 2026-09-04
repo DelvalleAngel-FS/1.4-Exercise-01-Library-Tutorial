@@ -9,4 +9,10 @@ Class: WDV229-O
 
 ### - 2026-09-03
 
+## Project Location
+
+cd Library
+npm install
+npm run dev
+
 - **Added:** Mantine Library was installed in project. Examples of components are displayed.
